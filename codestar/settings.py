@@ -26,8 +26,7 @@ SECRET_KEY = 'django-insecure-#^tpf+)%&aaqhj$r573s28$n*%9#7yl6nxg@5n$+)ulceqh!nf
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '8000-orechelsea-djangoblog-gfikwddctfo.ws.codeinstitute-ide.net'
-    '.ws.codeinstitute-ide.net',
+    '8000-orechelsea-djangoblog-efukwxnc7wm.ws.codeinstitute-ide.net',
     '.herokuapp.com'
 ]
 
